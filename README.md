@@ -1,4 +1,4 @@
-# Computational Electromagnetism Applications in Maglev
+# Computational Electromagnetism Applications on Maglev
 ## In this environment, you can find 3 folders for the simulations
 
 - The first folder is the `CST Simulations` folder

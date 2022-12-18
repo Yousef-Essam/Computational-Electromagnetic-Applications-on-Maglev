@@ -1,0 +1,21 @@
+Post-processing Logfile 
+
+----------------------------------------------------------------------------------------
+Units settings: 
+
+  Dimensions: m
+  Frequency:  Hz
+  Time:       s
+
+----------------------------------------------------------------------------------------
+
+Template based post-processing started at: 03:08 AM Sunday, 18. December 2022
+
+  Evaluating 'B-Field (1000)_Z (Y)': 1 s
+  Evaluating 'B-Field (1000)_Abs (Y)': 0 s
+  Evaluating 'B-Field (1000)': 1 s
+
+  Total time: 3 s  ( = 0 h, 0 m, 3 s )
+
+Template based post-processing finished at: 03:09 AM Sunday, 18. December 2022
+----------------------------------------------------------------------------------------

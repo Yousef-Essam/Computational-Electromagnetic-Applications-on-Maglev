@@ -1,0 +1,45 @@
+refinementinfo
+
+progressstart 0
+
+progressstop 100
+
+progresstext "Adapting mesh"
+
+reftype bisection
+
+markedelementsfile keep
+
+markedelementsfile evasive "D:\Engineering Projects\MTH2175 Project\Task 4\Simulation\CST Simulations\8 shaped coil modified\Result\refedges.tet"
+
+refine elements
+11
+13
+14
+27
+113
+127
+146
+253
+269
+277
+297
+311
+483
+514
+789
+802
+818
+953
+986
+1011
+1083
+1199
+1440
+1509
+1580
+1666
+2216
+2503
+2576
+

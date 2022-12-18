@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SchematicTopology Version="2.5" Seed="1" Grid="25">
+    <Block Id="1" ForeignId="522103140" Class="EMSSCHEM" ImageIndex="1">
+        <Size Height="150" Width="150"/>
+        <Pins Distribution="Custom">
+            <Pin Index="0" Port="0" BlockPosition="Left">
+                <Label>coil:coil1</Label>
+            </Pin>
+            <Pin Index="0" Port="1" BlockPosition="Right">
+                <Label>coil:coil1'</Label>
+            </Pin>
+            <Ports>
+                <Port Name="coil:coil1" Label="" Differential="1"/>
+                <Port Name="coil:coil1'" Label=""/>
+            </Ports>
+        </Pins>
+        <Image FileName="../3D/Model.dib" Scale="AutoFit"/>
+        <Pos X="100" Y="0"/>
+        <ToolTip>CST EM STUDIO schematic block EMSSCHEM1</ToolTip>
+    </Block>
+</SchematicTopology>

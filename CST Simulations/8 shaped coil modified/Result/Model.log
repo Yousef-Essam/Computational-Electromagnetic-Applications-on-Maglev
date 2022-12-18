@@ -1,0 +1,130 @@
+18/Dec/2022 03:08:54  LF Frequency Domain Solver (Fullwave)
+                      
+                      ------------------------------------------------------------------------------
+18/Dec/2022 03:08:54  Units settings: 
+                      
+                        Dimensions: m
+                        Frequency:  Hz
+                      
+                      ------------------------------------------------------------------------------
+18/Dec/2022 03:08:54  Boundary conditions: 
+                      
+                        YZsymmetry: none
+                        XZsymmetry: none
+                        XYsymmetry: none
+                      
+                        Xmin: electric
+                        Xmax: electric
+                      
+                        Ymin: electric
+                        Ymax: electric
+                      
+                        Zmin: electric
+                        Zmax: electric
+                      
+                      ------------------------------------------------------------------------------
+18/Dec/2022 03:08:54  *** Warning ***
+                      
+                      This software is licensed for personal and educational purposes only.
+                      
+                      ------------------------------------------------------------------------------
+18/Dec/2022 03:08:55  Solver started at: 03:08 AM Sunday, 18. December 2022 (Egypt Standard Time)
+                      
+                        Module:  LF Frequency Domain Solver (Win 64)
+                        Version: 2021.4 Release from 2021-05-18 (change 873153)
+                      
+                        Hardware:
+                           Computer name: LAPTOP-N03BDH0U
+                      
+                      ------------------------------------------------------------------------------
+18/Dec/2022 03:08:55  Solver order = 2
+                      
+                      
+                      ------------------------------------------------------------------------------
+18/Dec/2022 03:08:55  Solver mode = Full 3D
+                      
+                      ------------------------------------------------------------------------------
+18/Dec/2022 03:08:55  Solve solution frequency 1000 Hz 
+                      
+                      ------------------------------------------------------------------------------
+18/Dec/2022 03:08:55  Adaptive Computation
+                      
+                      ------------------------------------------------------------------------------
+18/Dec/2022 03:08:55  Pass 1: 
+                      
+                      ------------------------------------------------------------------------------
+18/Dec/2022 03:08:55  Precompute source current distribution ...
+18/Dec/2022 03:08:55  Relative residual = 2.8e-15
+                      
+                      
+                      ------------------------------------------------------------------------------
+18/Dec/2022 03:08:55  Run low frequency solver ...
+18/Dec/2022 03:08:56  Relative residual = 3.3e-07
+18/Dec/2022 03:08:56  Solver time:  0d :  0h :  0m :  0s
+18/Dec/2022 03:08:56  Pass 2: 
+                      
+                      ------------------------------------------------------------------------------
+18/Dec/2022 03:08:56  Refinement successful
+18/Dec/2022 03:08:56  Precompute source current distribution ...
+18/Dec/2022 03:08:56  Relative residual = 4.5e-15
+                      
+                      
+                      ------------------------------------------------------------------------------
+18/Dec/2022 03:08:56  Run low frequency solver ...
+18/Dec/2022 03:08:57  Relative residual = 2.4e-07
+18/Dec/2022 03:08:57  Solver time:  0d :  0h :  0m :  0s
+18/Dec/2022 03:08:57  Relative energy Delta (pass 2) = 2.1944e-03
+                      
+                      
+                      ------------------------------------------------------------------------------
+18/Dec/2022 03:08:57  Total solver time (all mesh adaptation runs):  0d :  0h :  0m :  0s
+                      
+                      
+                      ------------------------------------------------------------------------------
+18/Dec/2022 03:08:57  Solver Timing Statistics: (last run)
+                      
+                        Mesh generation:                  0d :  0h :  0m :  1s
+                        Initialization and data import:   0d :  0h :  0m :  0s
+                        Assembling process:               0d :  0h :  0m :  0s
+                        Linear solver:                    0d :  0h :  0m :  0s
+                                                       --------------------------
+                        Total time:                       0d :  0h :  0m :  1s
+                      
+                        Number of threads used:           8 
+                      
+                      
+                      
+                      ------------------------------------------------------------------------------
+18/Dec/2022 03:08:57  Total simulation time (all mesh adaptation runs) 0d :  0h :  0m :  1s
+                      
+                      
+                      ------------------------------------------------------------------------------
+18/Dec/2022 03:08:57  Solver Size Statistics:
+                      
+                        Number of mesh cells:         4221 
+                        Number of unknowns:           26398
+                      
+                      ------------------------------------------------------------------------------
+18/Dec/2022 03:08:57  Linear Solver Selection: Auto
+                      
+                      
+                      ------------------------------------------------------------------------------
+18/Dec/2022 03:08:57  Memory statistics:
+                      
+                        ----------------------------------------------------------------------------
+                                            Peak memory used (kB)         Free physical memory (kB) 
+                                                                          At begin     Minimum      
+                        ----------------------------------------------------------------------------
+                        Solver start        13780                         7594328      7594072      
+                        Solver run total    223164                        7593008      7433928      
+                        ----------------------------------------------------------------------------
+                      
+                      
+                      ------------------------------------------------------------------------------
+18/Dec/2022 03:09:00  Field exported to folder: D:\Engineering Projects\MTH2175 Project\Task
+                      4\Simulation\CST Simulations\8 shaped coil modified\Export\3d\
+                      
+                      ------------------------------------------------------------------------------
+18/Dec/2022 03:09:01  Creating parametric 1D results for Run ID 1
+                      
+                      ------------------------------------------------------------------------------
